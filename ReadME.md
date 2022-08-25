@@ -1,5 +1,7 @@
 # Caesar - CS50
 
+![banner](/images/Caesar_CS50.png)
+
 ### Description
 
 As part of CS50 the task was set to implement a program that encrypts messages
@@ -13,8 +15,8 @@ Upon usage you would select your *KEY* number which would determine the key for 
 
 
 plaintext
-      HELLO
-+ key	1111				
+                  H     E     L     L     O
++ key	            1     1     1     1     1				
 = ciphertext	I	F	M	M	P
 
 ### How to use
@@ -28,8 +30,18 @@ ciphertext: uryyb, jbeyq
 
 ### Code Snippet
 
-![cipher code](cs50-caesar/images/carbon%20(2).png)
+![code snippet](images/carbon%20(1).png)
 
-For more information about Caeser's cipher visit: [caesar's cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+### Links
+
+For more information about Caeser's cipher visit: 
+
+---------------------------------
+
+[caesar's cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+
+---------------------------------------------------------------
+
+
 [cs50 course](https://cs50.harvard.edu/x/2022/psets/2/caesar/)
 
