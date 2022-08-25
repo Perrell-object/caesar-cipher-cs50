@@ -14,8 +14,7 @@ ciphertext: URYYB
 Upon usage you would select your *KEY* number which would determine the key for your secret message as follows:
 
 
-|:------------:|
-| _type_       |
+
 |:------------:|:--------:
 | _plaintext_  |  HELLO   
 |:------------:|:--------:
