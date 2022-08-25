@@ -14,23 +14,14 @@ ciphertext: URYYB
 Upon usage you would select your *KEY* number which would determine the key for your secret message as follows:
 
 
-
-
-|              |
-|    type      |
+| type         |
 |              |
 |:------------:|:--------:
-|              |
 | _plaintext_  |  HELLO   
-|              |
-|              |
 |:------------:|:--------:
-|     _key_    |  11111	
-|              |
-|              |  
+| _key_        |  11111	
 |:------------:|:--------:  
 | _ciphertext_ |	IFMMP
-|              |
 |              |
 
 ### How to use
