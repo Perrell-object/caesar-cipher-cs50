@@ -19,16 +19,20 @@ Upon usage you would select your *KEY* number which would determine the key for 
 |              |
 |    type      |
 |              |
-|:------------:|:----------------------------:|
+|:------------:|:--------:
 |              |
-| _plaintext_  |  H     E     L     L     O   
+| _plaintext_  |  HELLO   
+|              |
+|              |
+|:------------:|:--------:
+|     _key_    |  11111	
+|              |
 |              |  
-|:------------:|
-|     _key_    |  1     1     1     1     1	
-|              |   
-|:------------:|   
-| _ciphertext_ |	I     F     M     M     P
+|:------------:|:--------:  
+| _ciphertext_ |	IFMMP
 |              |
+|              |
+
 ### How to use
 
 $ ./caesar 13
